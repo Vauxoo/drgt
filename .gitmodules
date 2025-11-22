@@ -2,3 +2,7 @@
     path = drgt
     url = git@git.vauxoo.com:vauxoo/drgt.git
     branch = 17.0
+[submodule "hr-expense"]
+	path = hr-expense
+	url = git@github.com:Vauxoo/hr-expense.git
+	branch = 17.0
